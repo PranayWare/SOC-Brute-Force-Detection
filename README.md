@@ -49,6 +49,5 @@ comparison with real test data.
 - Real threat-intelligence API integration (AbuseIPDB)
 
 ## Author
-[YOUR NAME] — built as part of self-directed SOC/detection-engineering
+[PRANAY WARE] — built as part of self-directed SOC/detection-engineering
 practice ahead of interview prep.
-
