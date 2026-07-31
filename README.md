@@ -47,7 +47,3 @@ comparison with real test data.
   without prior context, with a clear disposition tree and SLA
 - MITRE ATT&CK-based thinking throughout
 - Real threat-intelligence API integration (AbuseIPDB)
-
-## Author
-PRANAY WARE — built as part of self-directed SOC/detection-engineering
-practice ahead of interview prep.
